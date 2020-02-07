@@ -1,2 +1,2 @@
 # weather-app
-날씨 앱 연습
+React-Native로 만든 날씨 앱
